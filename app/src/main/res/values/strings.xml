@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PoomApp</string>
+    <string name="TheText">o</string>
+    <string name="action_settings">Settings</string>
+    <string name="TextTwo">TEST</string>
+    <string name="Button1">Press</string>
+</resources>
